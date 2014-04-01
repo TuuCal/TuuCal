@@ -1,0 +1,7 @@
+Calvin Tuunanen tuucal26@evergreen.edu
+Jeff Green Grejef04@evergreen.edu
+Emily Smith smiemi20@evergreen.edu
+
+Goal week 1: Work at Learnyouahaskell.com (5 hours)
+  Read Haskell: The Craft of Functional Programming (Ch. 1 & 2)
+  
